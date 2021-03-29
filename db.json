@@ -2,13 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "New hello"
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "New typicode"
-  },
-   "username": {
-    "name": "madusha"
+    "name": "typicode"
   }
 }
